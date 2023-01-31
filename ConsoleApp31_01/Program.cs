@@ -96,7 +96,7 @@ struct Person
     }
 }*/
 //Конструкторы структуры
-Person Ivan = new();
+/*Person Ivan = new();
 Person Petor = new("Petor");
 Person Maksim = new("Maksim", 27);
 Ivan.Print();
@@ -112,7 +112,7 @@ struct Person
         this.age = age;
     }
     public void Print() => WriteLine($"Имя: {name} Возраст: {age}");
-}
+}*/
 //C# 11 .Net 7
 /*Person Ivan = new();
 Person Petor = new("Petor");
